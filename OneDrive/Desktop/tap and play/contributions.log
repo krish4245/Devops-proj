@@ -516,3 +516,4 @@
 [2025-08-01T13:09:34+05:30] refactor handlers
 [2025-08-02T16:06:44+05:30] add validation rules
 [2025-08-02T11:52:41+05:30] update nginx conf
+[2025-08-06T12:46:08+05:30] add cache headers

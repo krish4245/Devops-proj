@@ -10,3 +10,4 @@
 [2025-08-06T11:27:12+05:30] update service discovery
 [2025-08-07T11:09:12+05:30] fix file upload handling
 [2025-08-07T19:36:09+05:30] update network policies
+[2025-08-07T17:43:35+05:30] add circuit breaker pattern

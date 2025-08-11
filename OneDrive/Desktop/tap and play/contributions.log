@@ -15,3 +15,4 @@
 [2025-08-07T14:58:08+05:30] fix logging configuration
 [2025-08-08T17:22:54+05:30] fix broken tests
 [2025-08-08T19:20:08+05:30] refactor config management
+[2025-08-11T17:47:08+05:30] add smoke test suite

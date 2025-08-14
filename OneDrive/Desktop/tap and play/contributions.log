@@ -19,3 +19,4 @@
 [2025-08-13T17:04:32+05:30] add secrets rotation
 [2025-08-13T08:22:48+05:30] refactor middleware chain
 [2025-08-13T10:08:48+05:30] fix request timeout handling
+[2025-08-14T16:34:06+05:30] update container registry

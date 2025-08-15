@@ -22,3 +22,4 @@
 [2025-08-14T16:34:06+05:30] update container registry
 [2025-08-14T20:27:00+05:30] add health check endpoint
 [2025-08-15T10:46:16+05:30] update helm chart values
+[2025-08-15T18:37:12+05:30] add data migration script

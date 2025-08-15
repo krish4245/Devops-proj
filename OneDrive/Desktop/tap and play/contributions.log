@@ -519,3 +519,4 @@
 [2025-08-06T12:46:08+05:30] add cache headers
 [2025-08-11T09:51:37+05:30] add session store
 [2025-08-14T13:20:29+05:30] fix log format
+[2025-08-15T08:06:52+05:30] fix auth handler

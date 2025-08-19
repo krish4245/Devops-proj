@@ -25,3 +25,4 @@
 [2025-08-15T18:37:12+05:30] add data migration script
 [2025-08-16T18:33:56+05:30] add monitoring alerts
 [2025-08-16T10:47:14+05:30] fix CORS configuration
+[2025-08-19T11:58:40+05:30] add graceful shutdown handler

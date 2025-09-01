@@ -46,3 +46,4 @@
 [2025-08-29T21:10:15+05:30] update API documentation
 [2025-08-30T10:27:27+05:30] add automated rollback
 [2025-08-30T12:41:32+05:30] update error messages
+[2025-09-01T16:36:41+05:30] fix file upload handling

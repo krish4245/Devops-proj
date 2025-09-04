@@ -49,3 +49,4 @@
 [2025-09-01T16:36:41+05:30] fix file upload handling
 [2025-09-01T22:42:50+05:30] update README documentation
 [2025-09-04T08:49:43+05:30] fix broken tests
+[2025-09-04T20:01:11+05:30] add health check endpoint

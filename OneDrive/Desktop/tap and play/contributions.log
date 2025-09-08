@@ -55,3 +55,4 @@
 [2025-09-05T10:23:06+05:30] add monitoring alerts
 [2025-09-05T16:28:44+05:30] add integration tests
 [2025-09-07T12:58:40+05:30] fix broken tests
+[2025-09-08T11:17:48+05:30] update helm chart values

@@ -57,3 +57,4 @@
 [2025-09-07T12:58:40+05:30] fix broken tests
 [2025-09-08T11:17:48+05:30] update helm chart values
 [2025-09-08T18:08:41+05:30] update API documentation
+[2025-09-09T12:11:08+05:30] refactor deployment scripts

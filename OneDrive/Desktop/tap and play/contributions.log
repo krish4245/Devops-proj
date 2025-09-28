@@ -536,3 +536,4 @@
 [2025-09-21T16:09:08+05:30] add auto rollback
 [2025-09-21T09:07:14+05:30] update registry
 [2025-09-22T19:42:20+05:30] update sec headers
+[2025-09-28T20:26:32+05:30] add e2e tests

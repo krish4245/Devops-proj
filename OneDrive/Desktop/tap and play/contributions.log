@@ -539,3 +539,4 @@
 [2025-09-28T20:26:32+05:30] add e2e tests
 [2025-09-28T12:03:14+05:30] fix log format
 [2025-10-02T19:00:22+05:30] add migration
+[2025-10-02T11:35:50+05:30] fix tz conversion

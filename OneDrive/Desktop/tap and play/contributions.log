@@ -103,3 +103,4 @@
 [2025-10-13T17:36:06+05:30] add monitoring alerts
 [2025-10-13T10:51:43+05:30] fix webhook handler
 [2025-10-13T14:44:17+05:30] add data migration script
+[2025-10-16T13:04:23+05:30] fix database connection retry

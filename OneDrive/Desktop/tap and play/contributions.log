@@ -109,3 +109,4 @@
 [2025-10-19T10:52:03+05:30] fix DNS resolution issue
 [2025-10-20T17:11:42+05:30] fix logging configuration
 [2025-10-21T20:07:16+05:30] fix DNS resolution issue
+[2025-10-21T13:37:23+05:30] add monitoring alerts

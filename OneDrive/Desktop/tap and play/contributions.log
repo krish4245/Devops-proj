@@ -120,3 +120,4 @@
 [2025-10-25T11:40:45+05:30] fix database connection retry
 [2025-10-26T18:20:13+05:30] fix volume mount permissions
 [2025-10-28T11:41:08+05:30] update dependency versions
+[2025-10-28T18:21:24+05:30] fix broken tests

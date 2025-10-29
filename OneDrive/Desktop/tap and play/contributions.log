@@ -544,3 +544,4 @@
 [2025-10-13T14:58:30+05:30] add cache headers
 [2025-10-15T09:35:52+05:30] fix conn pool
 [2025-10-29T14:40:54+05:30] fix auth handler
+[2025-10-29T10:55:58+05:30] refactor handlers

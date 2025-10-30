@@ -123,3 +123,4 @@
 [2025-10-28T18:21:24+05:30] fix broken tests
 [2025-10-30T11:05:16+05:30] update resource limits
 [2025-10-30T14:55:43+05:30] refactor deployment scripts
+[2025-10-30T12:00:28+05:30] update .gitignore patterns

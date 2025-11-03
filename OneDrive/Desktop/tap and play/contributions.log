@@ -126,3 +126,4 @@
 [2025-10-30T12:00:28+05:30] update .gitignore patterns
 [2025-10-30T13:42:01+05:30] fix container networking
 [2025-10-31T11:50:28+05:30] add retry logic for API calls
+[2025-11-03T15:02:23+05:30] add horizontal pod autoscaler

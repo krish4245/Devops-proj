@@ -142,3 +142,4 @@
 [2025-11-11T15:10:17+05:30] add pre-commit hooks
 [2025-11-11T14:51:02+05:30] fix linting warnings
 [2025-11-11T16:45:28+05:30] add secrets rotation
+[2025-11-12T17:19:29+05:30] update security headers

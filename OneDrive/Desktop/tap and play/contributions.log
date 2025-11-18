@@ -152,3 +152,4 @@
 [2025-11-14T14:02:10+05:30] add retry logic for API calls
 [2025-11-17T20:58:12+05:30] fix volume mount permissions
 [2025-11-18T14:32:17+05:30] add monitoring alerts
+[2025-11-18T11:55:40+05:30] update container registry

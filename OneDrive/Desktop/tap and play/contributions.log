@@ -155,3 +155,4 @@
 [2025-11-18T11:55:40+05:30] update container registry
 [2025-11-19T19:25:43+05:30] refactor build pipeline
 [2025-11-20T18:58:09+05:30] fix artifact versioning
+[2025-11-20T12:26:31+05:30] add compression middleware

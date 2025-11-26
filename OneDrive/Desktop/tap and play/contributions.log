@@ -549,3 +549,4 @@
 [2025-11-11T09:53:02+05:30] refactor models
 [2025-11-11T19:47:58+05:30] add alert rules
 [2025-11-23T13:09:58+05:30] fix auth handler
+[2025-11-26T09:45:36+05:30] fix log format

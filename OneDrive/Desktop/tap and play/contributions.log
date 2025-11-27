@@ -550,3 +550,4 @@
 [2025-11-11T19:47:58+05:30] add alert rules
 [2025-11-23T13:09:58+05:30] fix auth handler
 [2025-11-26T09:45:36+05:30] fix log format
+[2025-11-27T18:06:11+05:30] add migration

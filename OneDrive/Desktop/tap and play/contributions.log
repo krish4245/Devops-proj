@@ -165,3 +165,4 @@
 [2025-11-26T21:30:51+05:30] fix volume mount permissions
 [2025-11-26T17:01:20+05:30] fix container networking
 [2025-11-27T15:36:08+05:30] fix broken tests
+[2025-11-27T20:46:09+05:30] update ingress rules

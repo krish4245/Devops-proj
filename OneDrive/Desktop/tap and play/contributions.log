@@ -170,3 +170,4 @@
 [2025-11-27T10:37:16+05:30] fix broken tests
 [2025-11-28T18:20:20+05:30] fix logging configuration
 [2025-11-28T16:17:24+05:30] update dependency versions
+[2025-11-28T19:22:08+05:30] add health check endpoint

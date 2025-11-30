@@ -174,3 +174,4 @@
 [2025-11-28T18:38:06+05:30] update API documentation
 [2025-11-28T17:36:08+05:30] update terraform modules
 [2025-11-29T13:57:01+05:30] add rate limiting middleware
+[2025-11-30T21:13:45+05:30] fix database connection retry

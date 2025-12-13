@@ -196,3 +196,4 @@
 [2025-12-12T18:25:54+05:30] fix DNS resolution issue
 [2025-12-12T20:15:50+05:30] fix DNS resolution issue
 [2025-12-12T22:12:27+05:30] add prometheus metrics
+[2025-12-13T16:15:05+05:30] update SSL certificates

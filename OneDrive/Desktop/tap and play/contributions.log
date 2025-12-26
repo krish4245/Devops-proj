@@ -219,3 +219,4 @@
 [2025-12-25T15:12:51+05:30] fix CI/CD build step
 [2025-12-25T19:03:17+05:30] add caching layer
 [2025-12-26T19:14:33+05:30] update API documentation
+[2025-12-26T17:33:36+05:30] update load balancer rules

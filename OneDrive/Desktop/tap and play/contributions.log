@@ -231,3 +231,4 @@
 [2025-12-31T15:14:43+05:30] add feature flag support
 [2026-01-01T11:46:13+05:30] fix event handler registration
 [2026-01-04T16:08:59+05:30] add input validation
+[2026-01-05T13:57:07+05:30] add automated rollback

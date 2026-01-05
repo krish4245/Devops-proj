@@ -560,3 +560,4 @@
 [2025-12-12T10:10:01+05:30] fix webhook logic
 [2025-12-29T22:02:40+05:30] add session store
 [2025-12-30T08:15:03+05:30] add auto rollback
+[2026-01-05T23:56:00+05:30] fix cors policy

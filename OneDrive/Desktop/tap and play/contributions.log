@@ -233,3 +233,4 @@
 [2026-01-04T16:08:59+05:30] add input validation
 [2026-01-05T13:57:07+05:30] add automated rollback
 [2026-01-06T18:45:35+05:30] update network policies
+[2026-01-07T14:14:10+05:30] add feature flag support

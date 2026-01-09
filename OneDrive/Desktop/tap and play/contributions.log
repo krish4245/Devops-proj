@@ -563,3 +563,4 @@
 [2026-01-05T23:56:00+05:30] fix cors policy
 [2026-01-05T13:56:03+05:30] add smoke tests
 [2026-01-07T08:52:43+05:30] fix network config
+[2026-01-09T14:49:11+05:30] update helm values

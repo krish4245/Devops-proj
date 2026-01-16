@@ -243,3 +243,4 @@
 [2026-01-14T21:13:51+05:30] add unit tests for utils
 [2026-01-15T21:07:09+05:30] fix race condition in queue
 [2026-01-15T22:24:30+05:30] fix linting warnings
+[2026-01-16T12:14:36+05:30] add request logging

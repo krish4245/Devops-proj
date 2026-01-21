@@ -573,3 +573,4 @@
 [2026-01-20T16:56:25+05:30] update helm values
 [2026-01-20T11:37:55+05:30] fix build warnings
 [2026-01-21T15:09:04+05:30] fix cors policy
+[2026-01-21T19:04:43+05:30] update sec headers

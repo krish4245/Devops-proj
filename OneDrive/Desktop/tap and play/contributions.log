@@ -576,3 +576,4 @@
 [2026-01-21T19:04:43+05:30] update sec headers
 [2026-01-22T23:31:51+05:30] fix cors policy
 [2026-01-22T21:47:00+05:30] fix artifact version
+[2026-01-23T17:16:31+05:30] fix auth handler

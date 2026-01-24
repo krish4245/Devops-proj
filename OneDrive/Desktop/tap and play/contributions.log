@@ -578,3 +578,4 @@
 [2026-01-22T21:47:00+05:30] fix artifact version
 [2026-01-23T17:16:31+05:30] fix auth handler
 [2026-01-23T09:43:48+05:30] add test coverage
+[2026-01-24T11:02:08+05:30] fix cors policy

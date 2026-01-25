@@ -579,3 +579,4 @@
 [2026-01-23T17:16:31+05:30] fix auth handler
 [2026-01-23T09:43:48+05:30] add test coverage
 [2026-01-24T11:02:08+05:30] fix cors policy
+[2026-01-25T08:57:16+05:30] fix cors policy

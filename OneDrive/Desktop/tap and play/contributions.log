@@ -254,3 +254,4 @@
 [2026-01-24T17:36:40+05:30] fix linting warnings
 [2026-01-24T11:57:58+05:30] update helm chart values
 [2026-01-25T14:40:54+05:30] add caching layer
+[2026-01-25T13:24:55+05:30] update cache invalidation

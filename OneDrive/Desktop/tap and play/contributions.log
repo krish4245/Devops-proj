@@ -255,3 +255,4 @@
 [2026-01-24T11:57:58+05:30] update helm chart values
 [2026-01-25T14:40:54+05:30] add caching layer
 [2026-01-25T13:24:55+05:30] update cache invalidation
+[2026-01-26T19:41:03+05:30] add pre-commit hooks

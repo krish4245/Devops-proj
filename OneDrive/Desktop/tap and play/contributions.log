@@ -260,3 +260,4 @@
 [2026-01-27T13:30:27+05:30] update API response format
 [2026-01-27T16:09:31+05:30] add pre-commit hooks
 [2026-01-27T20:34:47+05:30] fix timezone handling
+[2026-01-28T21:00:26+05:30] fix event handler registration

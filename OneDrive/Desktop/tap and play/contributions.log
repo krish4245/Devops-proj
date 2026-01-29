@@ -263,3 +263,4 @@
 [2026-01-28T21:00:26+05:30] fix event handler registration
 [2026-01-28T19:03:38+05:30] fix CI/CD build step
 [2026-01-28T16:27:07+05:30] refactor build pipeline
+[2026-01-29T13:24:34+05:30] update dependency versions

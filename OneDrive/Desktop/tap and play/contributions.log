@@ -271,3 +271,4 @@
 [2026-02-03T10:47:43+05:30] refactor build pipeline
 [2026-02-04T17:46:48+05:30] fix race condition in queue
 [2026-02-04T11:48:35+05:30] update environment variables
+[2026-02-05T14:50:04+05:30] fix artifact versioning

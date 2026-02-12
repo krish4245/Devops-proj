@@ -590,3 +590,4 @@
 [2026-02-07T11:30:48+05:30] fix timeout issue
 [2026-02-07T13:48:05+05:30] update docker settings
 [2026-02-11T21:08:56+05:30] fix worker process
+[2026-02-12T20:28:13+05:30] add smoke tests

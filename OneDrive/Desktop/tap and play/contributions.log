@@ -285,3 +285,4 @@
 [2026-02-15T10:15:14+05:30] add prometheus metrics
 [2026-02-17T16:47:11+05:30] fix race condition in queue
 [2026-02-17T13:17:11+05:30] update dependency versions
+[2026-02-17T10:59:04+05:30] fix container networking

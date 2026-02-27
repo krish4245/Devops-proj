@@ -303,3 +303,4 @@
 [2026-02-27T22:08:30+05:30] update nginx configuration
 [2026-02-27T10:25:24+05:30] update container registry
 [2026-02-27T20:38:27+05:30] fix timezone handling
+[2026-02-27T13:06:56+05:30] add feature flag support

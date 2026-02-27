@@ -301,3 +301,4 @@
 [2026-02-25T09:16:16+05:30] add rate limiting middleware
 [2026-02-25T13:05:08+05:30] update changelog
 [2026-02-27T22:08:30+05:30] update nginx configuration
+[2026-02-27T10:25:24+05:30] update container registry

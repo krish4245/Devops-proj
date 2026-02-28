@@ -305,3 +305,4 @@
 [2026-02-27T20:38:27+05:30] fix timezone handling
 [2026-02-27T13:06:56+05:30] add feature flag support
 [2026-02-27T18:07:52+05:30] fix container networking
+[2026-02-28T10:21:18+05:30] update SSL certificates

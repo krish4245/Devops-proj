@@ -606,3 +606,4 @@
 [2026-03-01T19:39:30+05:30] update env vars
 [2026-03-03T17:56:26+05:30] add retry mechanism
 [2026-03-10T20:17:07+05:30] add health checks
+[2026-03-10T11:10:37+05:30] fix dns lookup

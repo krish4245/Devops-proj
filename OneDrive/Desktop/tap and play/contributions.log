@@ -605,3 +605,4 @@
 [2026-03-01T22:18:18+05:30] fix log format
 [2026-03-01T19:39:30+05:30] update env vars
 [2026-03-03T17:56:26+05:30] add retry mechanism
+[2026-03-10T20:17:07+05:30] add health checks

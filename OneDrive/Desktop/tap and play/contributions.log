@@ -321,3 +321,4 @@
 [2026-03-09T12:27:15+05:30] update dependency versions
 [2026-03-09T12:31:12+05:30] fix event handler registration
 [2026-03-10T11:32:47+05:30] fix linting warnings
+[2026-03-10T20:52:13+05:30] update README documentation

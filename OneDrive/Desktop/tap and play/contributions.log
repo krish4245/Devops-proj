@@ -326,3 +326,4 @@
 [2026-03-12T13:07:58+05:30] update .gitignore patterns
 [2026-03-12T20:06:29+05:30] fix timezone handling
 [2026-03-12T11:06:07+05:30] fix memory leak in worker
+[2026-03-13T19:52:39+05:30] fix namespace isolation

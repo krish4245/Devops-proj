@@ -328,3 +328,4 @@
 [2026-03-12T11:06:07+05:30] fix memory leak in worker
 [2026-03-13T19:52:39+05:30] fix namespace isolation
 [2026-03-13T13:03:18+05:30] update API response format
+[2026-03-13T14:29:06+05:30] update ingress rules

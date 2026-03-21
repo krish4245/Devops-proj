@@ -346,3 +346,4 @@
 [2026-03-19T15:22:05+05:30] optimize database queries
 [2026-03-20T18:33:51+05:30] add feature flag support
 [2026-03-20T22:19:20+05:30] fix log rotation config
+[2026-03-21T11:19:42+05:30] add graceful shutdown handler

@@ -609,3 +609,4 @@
 [2026-03-10T11:10:37+05:30] fix dns lookup
 [2026-03-14T08:23:32+05:30] add health checks
 [2026-03-14T09:27:03+05:30] update readme
+[2026-03-23T11:45:32+05:30] add metrics endpoint

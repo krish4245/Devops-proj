@@ -361,3 +361,4 @@
 [2026-04-02T22:08:11+05:30] add integration tests
 [2026-04-03T15:34:03+05:30] update .gitignore patterns
 [2026-04-06T15:16:57+05:30] add feature flag support
+[2026-04-06T17:15:42+05:30] add secrets rotation

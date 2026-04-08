@@ -365,3 +365,4 @@
 [2026-04-07T19:15:45+05:30] add horizontal pod autoscaler
 [2026-04-07T12:15:18+05:30] update container registry
 [2026-04-07T19:14:37+05:30] update load balancer rules
+[2026-04-08T19:26:31+05:30] update network policies

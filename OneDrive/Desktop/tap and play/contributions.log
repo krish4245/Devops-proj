@@ -380,3 +380,4 @@
 [2026-04-17T12:50:36+05:30] add horizontal pod autoscaler
 [2026-04-18T21:12:08+05:30] update ingress rules
 [2026-04-20T12:33:46+05:30] fix database connection retry
+[2026-04-20T08:51:21+05:30] update API response format

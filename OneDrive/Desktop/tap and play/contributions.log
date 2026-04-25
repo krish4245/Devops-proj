@@ -385,3 +385,4 @@
 [2026-04-22T16:49:24+05:30] fix broken tests
 [2026-04-22T18:05:10+05:30] update docker compose services
 [2026-04-23T15:46:40+05:30] update security headers
+[2026-04-25T10:09:13+05:30] update cache invalidation

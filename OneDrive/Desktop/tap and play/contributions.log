@@ -387,3 +387,4 @@
 [2026-04-23T15:46:40+05:30] update security headers
 [2026-04-25T10:09:13+05:30] update cache invalidation
 [2026-04-25T10:36:55+05:30] add retry logic for API calls
+[2026-04-28T11:31:46+05:30] add caching layer

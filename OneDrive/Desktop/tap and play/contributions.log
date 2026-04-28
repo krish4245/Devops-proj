@@ -389,3 +389,4 @@
 [2026-04-25T10:36:55+05:30] add retry logic for API calls
 [2026-04-28T11:31:46+05:30] add caching layer
 [2026-04-28T10:21:09+05:30] update network policies
+[2026-04-28T17:41:44+05:30] update .gitignore patterns

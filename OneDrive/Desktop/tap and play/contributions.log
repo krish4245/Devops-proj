@@ -622,3 +622,4 @@
 [2026-04-26T23:26:56+05:30] fix conn pool
 [2026-05-02T09:27:06+05:30] add alert rules
 [2026-05-02T10:03:26+05:30] update lb rules
+[2026-05-05T10:54:25+05:30] fix log format

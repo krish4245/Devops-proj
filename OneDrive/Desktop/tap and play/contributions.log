@@ -395,3 +395,4 @@
 [2026-04-30T12:36:07+05:30] fix DNS resolution issue
 [2026-04-30T11:36:24+05:30] fix linting warnings
 [2026-05-04T20:02:11+05:30] fix file upload handling
+[2026-05-05T09:32:45+05:30] add retry logic for API calls

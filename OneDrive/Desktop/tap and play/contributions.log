@@ -627,3 +627,4 @@
 [2026-05-09T17:36:55+05:30] update readme
 [2026-05-09T11:28:22+05:30] fix build warnings
 [2026-05-10T09:55:02+05:30] update nginx conf
+[2026-05-11T08:45:17+05:30] add health checks

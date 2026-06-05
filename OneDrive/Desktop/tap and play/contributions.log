@@ -433,3 +433,4 @@
 [2026-06-03T14:16:09+05:30] fix pagination logic
 [2026-06-05T10:56:15+05:30] update nginx configuration
 [2026-06-05T15:43:51+05:30] update security headers
+[2026-06-05T15:17:37+05:30] add smoke test suite

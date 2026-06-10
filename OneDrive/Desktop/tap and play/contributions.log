@@ -441,3 +441,4 @@
 [2026-06-09T11:53:26+05:30] add unit tests for utils
 [2026-06-09T10:00:10+05:30] add data migration script
 [2026-06-09T09:16:42+05:30] fix pagination logic
+[2026-06-10T08:07:49+05:30] add unit tests for utils

@@ -450,3 +450,4 @@
 [2026-06-12T15:52:22+05:30] update service discovery
 [2026-06-15T10:43:44+05:30] add horizontal pod autoscaler
 [2026-06-15T09:38:11+05:30] fix timezone handling
+[2026-06-15T19:06:38+05:30] add automated rollback

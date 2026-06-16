@@ -453,3 +453,4 @@
 [2026-06-15T19:06:38+05:30] add automated rollback
 [2026-06-16T12:49:06+05:30] fix artifact versioning
 [2026-06-16T09:06:16+05:30] add backup automation script
+[2026-06-16T14:34:12+05:30] add secrets rotation

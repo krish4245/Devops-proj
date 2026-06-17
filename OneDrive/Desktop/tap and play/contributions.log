@@ -455,3 +455,4 @@
 [2026-06-16T09:06:16+05:30] add backup automation script
 [2026-06-16T14:34:12+05:30] add secrets rotation
 [2026-06-17T17:46:57+05:30] fix pagination logic
+[2026-06-17T10:36:10+05:30] add prometheus metrics

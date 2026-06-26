@@ -646,3 +646,4 @@
 [2026-06-19T19:13:34+05:30] update mesh config
 [2026-06-19T08:34:44+05:30] refactor models
 [2026-06-26T18:57:49+05:30] add health checks
+[2026-06-26T23:31:54+05:30] add metrics endpoint

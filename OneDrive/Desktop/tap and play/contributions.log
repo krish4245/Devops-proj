@@ -470,3 +470,4 @@
 [2026-06-24T09:00:29+05:30] fix memory leak in worker
 [2026-06-24T09:02:05+05:30] fix container networking
 [2026-06-26T15:07:35+05:30] optimize database queries
+[2026-06-26T19:11:51+05:30] fix log rotation config

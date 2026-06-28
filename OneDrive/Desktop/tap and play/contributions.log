@@ -649,3 +649,4 @@
 [2026-06-26T23:31:54+05:30] add metrics endpoint
 [2026-06-27T16:50:59+05:30] add shutdown hook
 [2026-06-28T15:21:17+05:30] fix webhook logic
+[2026-06-28T21:16:49+05:30] update pipeline config

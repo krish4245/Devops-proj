@@ -479,3 +479,4 @@
 [2026-07-02T12:34:26+05:30] update cache invalidation
 [2026-07-02T17:56:51+05:30] add retry logic for API calls
 [2026-07-02T16:53:01+05:30] add graceful shutdown handler
+[2026-07-02T11:50:31+05:30] fix database connection retry

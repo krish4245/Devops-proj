@@ -481,3 +481,4 @@
 [2026-07-02T16:53:01+05:30] add graceful shutdown handler
 [2026-07-02T11:50:31+05:30] fix database connection retry
 [2026-07-03T11:52:47+05:30] add input validation
+[2026-07-03T16:37:53+05:30] update helm chart values

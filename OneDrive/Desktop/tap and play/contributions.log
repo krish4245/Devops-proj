@@ -653,3 +653,4 @@
 [2026-06-29T13:26:52+05:30] update mesh config
 [2026-06-29T16:42:16+05:30] fix worker process
 [2026-07-03T18:22:37+05:30] refactor config loader
+[2026-07-07T12:02:27+05:30] fix logrotate

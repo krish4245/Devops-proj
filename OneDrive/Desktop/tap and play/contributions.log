@@ -661,3 +661,4 @@
 [2026-07-15T09:56:13+05:30] refactor ci pipeline
 [2026-07-18T18:13:45+05:30] update pipeline config
 [2026-07-19T09:53:13+05:30] update nginx conf
+[2026-07-19T10:09:37+05:30] fix cors policy
